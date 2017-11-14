@@ -1,7 +1,7 @@
 
 1. 是否引用了该会议或者期刊的至少3篇文章？
 2. 参考文献格式是否统一？包括是否会议缩写、期刊缩写、日期等等，格式统一
-3. conclusion, related work后面不要加s
+3. conclusion, related work，performance后面不要加s
 4. 不要用use等这些简单单词，需要用的时候去 
     http://www.netspeak.org/
     http://linggle.com/
@@ -26,4 +26,5 @@
 21. 不要用the state-of-the-arts，要用the state-of-the-art methods.
 22. 副词放在系动词之后，实动词之前
 33. 一句话后面有多个参考文献，比如[1,2,3]或者[2][7][13], 顺序要调整对，不要搞[1,3,2], [7][13][2]这样的
+34. 缩写词第一次出现一定跟着全写！！！
 
